@@ -42,8 +42,9 @@ Select operation:
 1. Add
 2. Subtract
 3. Multiply
-4. Divide
-Enter choice (1,2,3,4):
+4. Divide 
+5.Exit 
+Enter choice (1,2,3,4,5):
 ```
 
 ## Future Improvements
